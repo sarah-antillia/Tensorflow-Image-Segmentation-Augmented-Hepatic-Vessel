@@ -335,7 +335,7 @@ The loss (bce_dice_loss) score for this test dataset is not low, but accuracy hi
 loss,0.3188
 binary_accuracy,0.9879
 </pre>
-On the segmentation quality of the original <a href="https://www.nature.com/articles/s41467-022-30695-9">
+On the annotation quality of the original <a href="https://www.nature.com/articles/s41467-022-30695-9">
 The Medical Segmentation Decathlon </a> (MSD) dataset,
 please refer to a comment in 
 <a href="https://www.mdpi.com/2076-3417/13/1/548">Automatic Hepatic Vessels Segmentation Using RORPO Vessel Enhancement Filter and 3D V-Net with Variant Dice Loss Function</a>
